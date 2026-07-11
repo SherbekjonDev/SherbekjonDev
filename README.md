@@ -52,20 +52,8 @@
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td width="50%">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SherbekjonDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00&include_all_commits=true&count_private=true)](https://github.com/SherbekjonDev)
-
-</td>
-<td width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherbekjonDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&langs_count=8)](https://github.com/SherbekjonDev)
-
-</td>
-</tr>
-</table>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SherbekjonDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&ring_color=00ff00&include_all_commits=true&count_private=true&card_width=400)](https://github.com/SherbekjonDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherbekjonDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&langs_count=8&card_width=300)](https://github.com/SherbekjonDev)
 
 </div>
 
@@ -79,7 +67,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SherbekjonDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/SherbekjonDev)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SherbekjonDev&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/SherbekjonDev)
 
 </div>
 
