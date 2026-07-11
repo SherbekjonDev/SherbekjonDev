@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=⚡+Building+FothOS+—+Arch+Linux+Security+Distro;🔍+25%2B+custom+offensive+security+tools;📱+Android+%26+WiFi+attack+research;🤖+AI+systems+%26+automation+engineering;🇺🇿+Coding+from+Uzbekistan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=Building+FothOS+%E2%80%94+Arch+Linux+Security+Distro;25%2B+custom+offensive+security+tools;Android+%26+WiFi+attack+research;AI+systems+%26+automation+engineering;Coding+from+Uzbekistan" />
 </div>
 
 <br/>
