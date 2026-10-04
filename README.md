@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=Building+FothOS+%E2%80%94+Arch+Linux+Security+Distro;25%2B+custom+offensive+security+tools;Android+%26+WiFi+attack+research;AI+systems+%26+automation+engineering;Coding+from+Uzbekistan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=Building+FothOS+%E2%80%94+AI-native+Security+OS;80%2B+custom+offensive+security+tools;VM+stealth+%26+ring-0+anti-cheat+research;AI+systems+%26+automation+engineering;Coding+from+Uzbekistan" />
 </div>
 
 <br/>
@@ -18,8 +18,8 @@
 ║  > Cybersecurity Researcher · Builder · Hacker               ║
 ║                                                              ║
 ║  foth@arch ~ $ ls ~/projects                                 ║
-║  > FothOS        Arch Linux distro  · 25+ security tools     ║
-║  > FothHunter    Recon & threat detection engine             ║
+║  > FothOS        AI-native security OS  · 80+ tools          ║
+║  > vmdetect      VM detection lab · ring-0 research          ║
 ║  > foth-wifi     WiFi toolkit  ·  ARM / Android / Linux      ║
 ║  > android-av    Android malware & antivirus research        ║
 ║  > SilkRoadRPG   Open-world RPG · Python                     ║
